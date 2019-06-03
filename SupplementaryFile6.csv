@@ -1,0 +1,16 @@
+expected_frequency	actual_frequency	probability	phenotype	fdr
+30	49	0,000297975633136	Adipocyte diameter	0,021917763237367
+5,2	14	0,000769600727769	Aspartate aminotransferase activity	0,037069800771842
+34	56	5,08E-05	C3c concentration	0,006720183664319
+13	27	0,00015489399292	Fat protein content	0,012817477914114
+2,3	10	0,000106601494023	Granular leukocyte to lymphocyte ratio	0,010081455577626
+17	5	0,000704837288583	Muscle fat content	0,037069800771842
+70	46	7,14E-05	Muscle moisture percentage	0,007875980635998
+51	32	0,000964267629892	Nonfunctional nipples	0,042556344732586
+7,9	23	4,56E-06	Number of muscle fibers per unit area	0,001508213466712
+19	44	9,61E-08	Percentage type IIb fibers	6,36E-05
+1,9	8	0,000783953490643	Reflectance value	0,037069800771842
+13	30	3,61E-05	Shear force at first peak	0,006259140785737
+1,5	7	0,000735156062111	Shoulder weight, Boston	0,037069800771842
+33	16	0,000673309646064	Side fat thickness	0,037069800771842
+32	13	3,78E-05	White blood cell counts	0,006259140785737
